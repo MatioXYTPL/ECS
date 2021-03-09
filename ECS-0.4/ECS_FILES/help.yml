@@ -1,0 +1,16 @@
+That`s help center ECS:
+
+COMMAND: help - ECS help center
+COMMAND: websrc - Print`s the website source
+COMMAND: sys - Print`s the system info
+COMMAND: version - Print`s the program version
+COMMAND: clear - clear`s the workstation
+COMMAND: print - Print`s the input
+COMMAND: calc - calculator
+COMMAND: wincmd - execute windows command
+COMMAND: webopen - open`s website
+COMMAND: color - change`s background color
+COMMAND: q - quit`s
+
+To edit help go to ECS_FILES/help.yml
+
